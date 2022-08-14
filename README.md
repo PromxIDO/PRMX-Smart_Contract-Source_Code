@@ -1,2 +1,2 @@
-# XFUEL-Smart_Contract-Source_Code
-XFUEL Smart Contract Source Code
+# PRMX-Smart_Contract-Source_Code
+PRMX Smart Contract Source Code
